@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Potato",
+        "price": 200,
+        "image": "image/anh1.png"
+    },
+    {
+        "id": 2,
+        "name": "Tomato",
+        "price": 150,
+        "image": "image/anh2.png"
+    },
+    {
+        "id": 3,
+        "name": "Grapefruit",
+        "price": 300,
+        "image": "image/buoi.png"
+    },
+    {
+        "id": 4,
+        "name": "Banana",
+        "price": 400,
+        "image": "image/chuoi.png"
+    },
+    {
+        "id": 5,
+        "name": "Apple",
+        "price": 160,
+        "image": "image/tao.png"
+    },
+    {
+        "id": 6,
+        "name": "Orange",
+        "price": 210,
+        "image": "image/cam.png"
+    },
+    {
+        "id": 7,
+        "name": "Watermelon",
+        "price": 180,
+        "image": "image/duahau.png"
+    },
+    {
+        "id": 8,
+        "name": "Dragon Fruit",
+        "price": 190,
+        "image": "image/thanhlong.png"
+    }
+]
