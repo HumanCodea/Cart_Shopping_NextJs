@@ -37,7 +37,6 @@ header .icon-cart{
 }
 
 header .icon-cart span{
-    display: flex;
     width: 30px;
     height: 30px;
     background-color: red;
@@ -48,6 +47,11 @@ header .icon-cart span{
     position: absolute;
     top: 50%;
     right: -20px;
+    display: none;
+}
+
+.show{
+    display: flex !important;
 }
 
 .listVegetable .item img{

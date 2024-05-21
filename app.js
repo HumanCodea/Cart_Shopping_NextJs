@@ -141,6 +141,11 @@ const addCartToHTML = () => {
             listCartHTML.appendChild(newCart);
         })
     }
+    if(totalQuantity == 0){
+        iconCartSpan.classList.remove("show")
+    } else {
+        iconCartSpan.classList.add("show")
+    }
     iconCartSpan.innerText = totalQuantity;
 }
 
